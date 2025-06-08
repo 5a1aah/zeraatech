@@ -508,21 +508,21 @@ function App() {
                       <Mail className="text-primary" size={24} />
                       <div>
                         <div className="font-semibold">Email</div>
-                        <div className="text-muted-foreground">info@zeraatech.com</div>
+                        <div className="text-muted-foreground">salah.eddine.seecs@gmail.com</div>
                       </div>
                     </div>
                     <div className="flex items-center space-x-4">
                       <Phone className="text-primary" size={24} />
                       <div>
                         <div className="font-semibold">Phone</div>
-                        <div className="text-muted-foreground">+1 (555) 123-4567</div>
+                        <div className="text-muted-foreground">+212 620410317</div>
                       </div>
                     </div>
                     <div className="flex items-center space-x-4">
                       <MapPin className="text-primary" size={24} />
                       <div>
                         <div className="font-semibold">Address</div>
-                        <div className="text-muted-foreground">123 AgriTech Plaza, Innovation District</div>
+                        <div className="text-muted-foreground">Rabat, Morocco</div>
                       </div>
                     </div>
                   </div>
